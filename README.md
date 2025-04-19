@@ -1,17 +1,17 @@
 # 🛍️ Shop.co_ (Frontend UI Replica)
 
 This project is a **frontend UI clone** of the modern e-commerce website **Shop.co**. It focuses primarily on the **design and layout aspects**, replicating the clean, responsive, and professional look of a real online shopping platform.
-![Shop.co UI Preview](./image/Screenshot%202025-04-19%20154237.png)
+![Homepage](./image/Screenshot%202025-04-19%20154237.png)
 ## 🛍️ Shop.co UI Preview
 
-![Screenshot 1](./image/Screenshot%202025-04-19%20154309.png)
-![Screenshot 2](./image/Screenshot%202025-04-19%20154336.png)
-![Screenshot 3](./image/Screenshot%202025-04-19%20154410.png)
-![Screenshot 4](./image/Screenshot%202025-04-19%20154509.png)
-![Screenshot 5](./image/Screenshot%202025-04-19%20154533.png).
-
-
-
+![CART VIEW](./image/Screenshot%202025-04-19%20154309.png)
+![TOP SELLING](./image/Screenshot%202025-04-19%20154336.png)
+![NEW ARRIVAL](./image/Screenshot%202025-04-19%20154410.png)
+![CUSTOMER REVIEW](./image/Screenshot%202025-04-19%20154509.png)
+![FOOTER](./image/Screenshot%202025-04-19%20154533.png)
+## 🛍️ Shop.co UI Preview
+![Shop.co FEATURE PREVIEW](./image/Screenshot%202025-04-19%171119.png)
+## 🛍️ Shop.co UI FEATURE Preview
 
 ## 🚀 Features
 
