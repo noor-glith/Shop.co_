@@ -6,7 +6,7 @@ This project is a **frontend UI clone** of the modern e-commerce website **Shop.
 ![Homepage](./image/Screenshot%202025-04-19%20154237.png)
 ## 🛍️ Shop.co UI Preview
 
-![CART VIEW](./image/Screenshot%202025-04-19%20154309.png)
+![BRANDS](./image/Screenshot%202025-04-19%20172615.png)
 ![TOP SELLING](./image/Screenshot%202025-04-19%20154336.png)
 ![NEW ARRIVAL](./image/Screenshot%202025-04-19%20154410.png)
 ![CUSTOMER REVIEW](./image/Screenshot%202025-04-19%20154509.png)
