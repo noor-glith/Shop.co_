@@ -46,9 +46,13 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shop-co-clone.git
+   git clone https://github.com/noor-glith/shop-co-clone.git
 
 ---
+👩 About Me
+Name: Mahnoor Rizwan
+[LinkedIn](https://www.linkedin.com/in/mahnoor-rizwan1/)
+[Github](https://github.com/noor-glith)
 
 ### 📄 `LICENSE` (MIT License)
 
@@ -76,8 +80,3 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 For questions, suggestions, or collaboration:
 
-
- ### 👩 About Me
-##Name: Mahnoor Rizwan
-[LinkedIn](https://www.linkedin.com/in/mahnoor-rizwan1/)
-[Github](https://github.com/noor-glith)
