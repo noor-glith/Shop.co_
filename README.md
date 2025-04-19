@@ -1,8 +1,17 @@
 # 🛍️ Shop.co_ (Frontend UI Replica)
 
 This project is a **frontend UI clone** of the modern e-commerce website **Shop.co**. It focuses primarily on the **design and layout aspects**, replicating the clean, responsive, and professional look of a real online shopping platform.
+![Shop.co UI Preview](./image/Screenshot%202025-04-19%20154237.png)
+## 🛍️ Shop.co UI Preview
 
-![Shop.co UI Preview](./"C:\Users\HH Traders\Pictures\Screenshots\Screenshot 2025-04-19 154237.png") <!-- Replace with actual image path if available -->
+![Screenshot 1](./image/Screenshot%202025-04-19%20154309.png)
+![Screenshot 2](./image/Screenshot%202025-04-19%20154336.png)
+![Screenshot 3](./image/Screenshot%202025-04-19%20154410.png)
+![Screenshot 4](./image/Screenshot%202025-04-19%20154509.png)
+![Screenshot 5](./image/Screenshot%202025-04-19%20154533.png).
+
+
+
 
 ## 🚀 Features
 
@@ -67,6 +76,8 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 For questions, suggestions, or collaboration:
 
-Name: Mahnoor Rizwan
-LinkedIn: 
-GitHub: 
+
+ ### 👩 About Me
+##Name: Mahnoor Rizwan
+[LinkedIn](https://www.linkedin.com/in/mahnoor-rizwan1/)
+[Github](https://github.com/noor-glith)
