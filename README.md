@@ -80,8 +80,3 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 For questions, suggestions, or collaboration:
 
-
-👩 About Me
-Name: Mahnoor Rizwan
-[LinkedIn](https://www.linkedin.com/in/mahnoor-rizwan1/)
-[Github](https://github.com/noor-glith)
