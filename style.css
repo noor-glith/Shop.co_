@@ -602,6 +602,7 @@ button {
 
 button:hover {
     background-color: #231c1c;
+    color:white
 }
 .signup{
     background-color: #7300ff;
