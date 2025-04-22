@@ -43,7 +43,7 @@ This project is a **frontend UI clone** of the modern e-commerce website **Shop.
 
 ## 💡 Getting Started
 
-To run the project locally:
+Want to run locally
 
 1. Clone the repository:
    ```bash
